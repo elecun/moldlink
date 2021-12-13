@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+xlrd
+python-dateutil
+scikit-learn
+scikit-image
+scipy
+notebook
+jupyterlab
+progressbar
